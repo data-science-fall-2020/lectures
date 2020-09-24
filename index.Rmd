@@ -26,6 +26,8 @@ University by [David Gerard](https://dcgerard.github.io/).
 
 # Lectures
 
+- 00 Workflow
+    - [00 Workflow Tips](./00_workflow/00_workflow_tips.html)
 - 01 Git and the Terminal
     - [01 The Terminal and Bash Basics](./01_git/01_basic_bash.html).
     - [01 Git and GitHub](./01_git/01_git_github.html).
@@ -68,6 +70,10 @@ University by [David Gerard](https://dcgerard.github.io/).
     - [09 Numpy](./09_python/09_numpy.html).
     - [09 Pandas](./09_python/09_pandas.html).
     - [09 Matplotlib](./09_python/09_matplotlib.html).
+- 11 GNU Make
+    - [11 GNU Make](./11_make/11_make.html)
+    - [11 Penguins Exercise](https://github.com/data-science-master/penguins)
+    - [11 Very Basic Makefile Example](https://github.com/data-science-master/pvalue_sims)
 
 # Code of Conduct
 
