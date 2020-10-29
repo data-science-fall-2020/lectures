@@ -1,0 +1,37 @@
+---
+title: "Create your own Website using GitHub Pages"
+author: "David Gerard"
+date: "`r Sys.Date()`"
+output:  
+  html_document:
+    toc: true
+    toc_depth: 4
+urlcolor: "blue"
+---
+
+
+```{r setup, include=FALSE}
+set.seed(1)
+knitr::opts_chunk$set(echo       = TRUE, 
+                      fig.height = 3, 
+                      fig.width  = 6,
+                      fig.align  = "center")
+ggplot2::theme_set(ggplot2::theme_bw())
+```
+
+# Learning Objectives
+
+- Create your own personal website using GitHub pages.
+- [Setting up a GitHub Pages site with Jekyll](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll).
+- [Jekyll Themes](http://jekyllthemes.org/)
+
+# Build your own website
+
+- The easiest way to build your own website on GitHub is to 
+
+    1. Choose a Jekyll theme: <http://jekyllthemes.org/>
+    2. Click on the "Homepage" button to go to the GitHub page.
+    3. Fork the website to your own repo.
+    4. Edit the source to suit your needs.
+    5. Deploy your website.
+
